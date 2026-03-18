@@ -71,7 +71,7 @@ node deploy-commands.js
 
 ### 6. Run the bot
 ```bash
-node index.js
+node src/index.js
 ```
 
 ### Commands
