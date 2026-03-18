@@ -10,7 +10,7 @@ export async function runPairing(client, channel) {
     await channel.send(" No participants have joined the channel yet.");
     return;
   }
-
+  
   if (participants.length < 2) {
     await channel.send('Not enough members to create pairs.');
     return;

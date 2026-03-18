@@ -26,4 +26,4 @@ await rest.put(
   { body: commands },
 );
 
-console.log('✅ Slash commands registered!');
+// console.log('✅ Slash commands registered!');
