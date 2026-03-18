@@ -79,3 +79,7 @@ node index.js
  - /leave → Leave the coffee chat
  - /pair → Manually trigger pairing
  - /coffee → Start coffee chat vibes ☕
+
+### Future Improvements
+- Prevent repeat pairings
+- Add /status command 
